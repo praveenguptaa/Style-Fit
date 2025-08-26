@@ -74,8 +74,8 @@ function Register() {
         className="absolute top-6 left-6 flex items-center gap-3 cursor-pointer"
         onClick={() => navigate("/")}
       >
-        <img className="w-10" src={Logo} alt="STYLE-FIT Logo" />
-        <h1 className="text-xl font-semibold">STYLE-FIT</h1>
+        {/* <img className="w-10" src={Logo} alt="STYLE-FIT Logo" /> */}
+        <h1 className="text-xl font-bold">STYLE-FIT</h1>
       </div>
 
       
