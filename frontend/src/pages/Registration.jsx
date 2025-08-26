@@ -75,7 +75,7 @@ function Register() {
         onClick={() => navigate("/")}
       >
         {/* <img className="w-10" src={Logo} alt="STYLE-FIT Logo" /> */}
-        <h1 className="text-xl font-bold">STYLE-FIT</h1>
+        <h1 className="text-[22px] font-bold font-sans text-[#FFD166]">STYLE-FIT</h1>
       </div>
 
       
