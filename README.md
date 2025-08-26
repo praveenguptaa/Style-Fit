@@ -290,8 +290,8 @@ npm run dev
 
 The application is configured for deployment on Render.com:
 
-- **Frontend**: ``
-- **Admin Panel**: ``
+- **Frontend**: `https://style-fit-frontend.onrender.com`
+- **Admin Panel**: `https://style-fit-admin.onrender.com`
 
 ### Build Commands
 ```bash
